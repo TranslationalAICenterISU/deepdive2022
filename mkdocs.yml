@@ -1,11 +1,11 @@
 docs_dir: docs/
 repo_name: 'TranslationalAICenterISU/learning-materials-home'
-repo_url: 'https://github.com/TranslationalAICenterISU/learning-materials-home'
+repo_url: 'https://github.com/TranslationalAICenterISU/tractrain2022'
 
 site_name: 'TRAC Training 2022'
 site_description: 'Documentation for CyVerse Platforms and Education'
 site_author: 'AIIRA Team'
-site_url: 'https://translationalaicenterisu.github.io/learning-materials-home'
+site_url: 'https://translationalaicenterisu.github.io/tractrain2022'
 
 edit_uri: edit/mkdocs/docs
 
