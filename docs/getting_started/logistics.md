@@ -6,11 +6,10 @@ You need to provide the instructors with the following informaion prior to the s
 
 [GitHub Account Name](https://github.com){target=_blank}
 
-[CyVerse Account Name](https://user.cyverse.org){target=_blank}
+[CyVerse Account Name](https://user.cyverse.org){target=_blank} -register for the workshop here if you do not yet have an account with CyVerse: https://user.cyverse.org/workshops/92 
 
 The workshop will be conducted over Zoom
 
 [Zoom Link]()
 
 Zoom Password:
-
