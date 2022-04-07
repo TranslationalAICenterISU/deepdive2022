@@ -5,7 +5,7 @@ repo_url: 'https://github.com/TranslationalAICenterISU/learning-materials-home'
 site_name: 'TRAC Training 2022'
 site_description: 'Documentation for CyVerse Platforms and Education'
 site_author: 'CyVerse Science Team'
-site_url: 'https://translationalaicenterisu.github.io/tractrain2022'
+site_url: 'https://translationalaicenterisu.github.io/learning-materials-home'
 
 edit_uri: edit/main/docs
 

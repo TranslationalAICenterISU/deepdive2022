@@ -18,7 +18,7 @@ Welcome to TRACTRAIN2022!
 
 - :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
 
-- JupyterHub on [JetStream-2 OpenStack Cloud](https://jetstream-cloud.org/){target=_blank}
+- [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
 
 Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
 
