@@ -1,59 +1,55 @@
 ![!CyVerse Learning Center](assets/de/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="400" }
 
-# Welcome to the Learning Center
+# TRAC TRAIN 2022
 
-[CyVerse](https://cyverse.org) provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery.
+Welcome to TRACTRAIN2022!
 
-![people](assets/people_science.png){ width="600" }
+[:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
 
-**[![!What](assets/de/logos/cyverse_ball_2022.png "Account"){ width="30" }](what_is_cyverse.md) [What is CyVerse?](what_is_cyverse.md)**
+[:fontawesome-solid-gears: Logistics](./getting_started/logistics.md)
 
-**[![!Account](assets/de/logos/cyverse_ball_2022.png "Account"){ width="30" }](account.md) [Creating a CyVerse account](account.md)**
+[:material-timetable: Schedule](./getting_started/schedule.md)
 
-**[![!Data Store](assets/de/menu_items/dataIcon.png "Data Store"){ width="30" }](ds/intro.md) [Data Store](ds/intro.md)**
+## :material-cloud-tags: Part 1 - Work Cloud Natively with CyVerse & Jetstream-2
 
-**[![!Discovery Environment](assets/de/de_icon.png "Discovery Environment"){ width="30" }](de/intro.md) [Discovery Environment](de/intro.md)**
+[Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} (1.5hrs)
 
-[![!VICE](assets/de/logos/deviceIcon.png "Discovery Environment"){ width="30" }](vice/about.md) [Visual Interactive Compute Environment (VICE)](vice/about.md)
+- [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
 
-- VICE features popular development environments: JupyterLab, RStudio, and VSCode
-- Instant and on demand virtual machines running Ubuntu Linux command line interface
-- Remote Desktops for high quality visualizations in your browser
-- GPU computing for machine learning and artificial intelligence
+- :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
 
-**[![!](assets/atmosphere/cacao-04.png "Atmo"){ width="30" }](atmo/intro.md) [Cloud](atmo/intro.md)**
+- JupyterHub on [JetStream-2 OpenStack Cloud](https://jetstream-cloud.org/){target=_blank}
 
-- CyVerse created [Atmosphere](atmo/atmo.md), a browser interface for working with OpenStack Cloud virtual machines
-- Partnered with NSF XSEDE/ACCESS [Jetstream-2](https://jetstream-cloud.org) for more and larger virtual machines.
+Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
 
-**[What to do first](choose_platform.md)**
+- Introduction to Deep Learning with Project Jupyter (1.5hrs)
 
-**[For Advanced Users](powered_by.md)**
+- Data Management (15 mins)
 
-**[For Developers](manuals.md)**
+- Data Analysis (15 mins)
+
+- Concepts in training with a predefined standard network architecture (30 mins)
+
+- Performing model inference (15 mins)
+
+- Version control and Reproducibility (15 mins)
+
+## :material-language-python: Part II
+
+Introduction to GPU computing (20mins)
+
+Setting up your analysis environment for programming in Python (75 minutes)
+
 
 -----------------------------------------------------------------------
 
 **Funding and Citations:**
 
+AI Institute for Resilient Agriculture (AIIRA) is supported by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov) and United States Department of Agriculture - National Institute of Food and Agriculture award \#2021-67021-35329
+
 CyVerse is funded entirely by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov) under Award Numbers:
 
 [![NSF-0735191](https://img.shields.io/badge/NSF-0735191-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191)  [![NSF-1265383](https://img.shields.io/badge/NSF-1265383-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383)  [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442)
 
-Please cite CyVerse appropriately when you make use of our resources, see [CyVerse citation policy](https://cyverse.org/policies/cite-cyverse).
+Please cite CyVerse appropriately when you make use of our resources; see [CyVerse citation policy](https://cyverse.org/policies/cite-cyverse).
 
------------------------------------------------------------------------
-
-**Fix or improve this documentation**
-
-  - Search for an answer:
-     [CyVerse Learning Center](https://learning.cyverse.org)
-  - Ask us for help:
-    click the Intercom icon ![Intercom](assets/intercom.png){ width="25" } on the lower right-hand side of the page
-  - Report an issue or submit a change:
-    [Github Repo Link](https://github.com/cyverse-learning-materials/)
-  - Send feedback: <Tutorials@CyVerse.org>
-  
-------------------------------------------------------------------------
-
-[Learning Center Home](http://learning.cyverse.org/)

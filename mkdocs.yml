@@ -2,12 +2,12 @@ docs_dir: docs/
 repo_name: 'TranslationalAICenterISU/learning-materials-home'
 repo_url: 'https://github.com/TranslationalAICenterISU/learning-materials-home'
 
-site_name: 'CyVerse Learning Home'
+site_name: 'TRAC Training 2022'
 site_description: 'Documentation for CyVerse Platforms and Education'
 site_author: 'CyVerse Science Team'
-site_url: https://TranslationalAICenterISU.github.io/learning-materials-home/
+site_url: 'https://translationalaicenterisu.github.io/tractrain2022'
 
-edit_uri: edit/mkdocs/docs
+edit_uri: edit/main/docs
 
 # Copyright
 copyright: 'Copyright &copy; 2022 CyVerse'
@@ -15,62 +15,16 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 # Navigation Page
 
 nav:
-  - 'Home': index.md 
-  - 'Introduction':
-    - 'What is CyVerse?': what_is_cyverse.md
-    - 'FAQ': faq.md
-    - 'Getting Help': getting_help.md
-  - 'Sign Up':
-    - 'CyVerse Account Setup': account.md 
-    - 'Choosing a Platform': choose_platform.md
-  - 'Manage your Data': 
-    - 'Introduction': ds/intro.md
-    - 'Data Transfers with Discovery Environment': de/manage_data.md
-    - 'Data Transfers with Cyberduck Desktop App': ds/cyberduck.md
-    - 'Command Line Data Transfers': ds/icommands.md
-    - 'HTTP Access with WebDAV': ds/webdav.md
-    - 'Adding Metadata': ds/metadata.md
-    - 'Data Sharing': ds/share.md
-  - 'Run Analyses':
-    - 'Introduction': de/intro.md
-    - 'Logging In': de/login.md
-    - 'Managing Data through the DE': de/manage_data.md
-    - 'Using Apps': de/using_apps.md
-    - 'Managing Analyses': de/managing_analyses.md
-    - 'Interactive Analysis': vice/about.md
-    - 'Interactive Apps': vice/apps.md
-      #- 'Search': de/search.md
-    - 'Sharing and Using Bags': de/bags.md
-  - 'Quick Starts':
-    - 'RStudio in 6 steps': vice/quick-rstudio.md
-    - 'JupyterLab in 6 steps': vice/quick-jupyter.md
-    - 'Cloud Shell in 6 steps': vice/quick-cloudshell.md
-    - 'Data Sharing': ds/quick-data-share.md
-      #- 'Cloud Virtual Machines': atmo/quick-atmo.md
+  - 'Home': 
+    - index.md 
+  - 'Getting Started': 
+    - 'Code of Conduct': getting_started/code_conduct.md
+    - 'Logistics': getting_started/logistics.md
+    - 'Schedule': getting_started/schedule.md
+    - 'Setup': getting_started/setup.md
   - 'Cloud Services':
-    - 'Introduction': atmo/intro.md
-    - 'Atmosphere': atmo/atmo.md
-    - 'Jetstream': atmo/js.md 
-    - 'Continuous Analyses': atmo/cacao.md
-  - 'Analyze Images':
-    - 'BisQue': bisque_guide.md
-  - 'For the Classroom':
-    - 'Self-Guided Course': mooc.md
-    - 'DNA Subway': dna_subway_guide.md
-    - 'Teach using CyVerse': vice/teaching_vice.md
-  - 'Develop':
-    - 'Create DE Apps': de/create_apps.md
-    - 'Extend VICE apps': vice/extend_apps.md
-    - 'Leverage CyVerse Services': powered_by.md
-    - 'Developer Manuals': manuals.md
-  - 'Science Tutorials':
-    - 'Bioinformatics': bioinformatics_tutorials.md
-    - 'Geoinformatics': geoinformatics_tutorials.md
-    - 'Other Topics': other_tutorials.md
-  - 'CyVerse Workshops':
-    - 'Foundational Open Science Skills': foss.md
-    - 'Container Camp': container_camp.md
-  - 'Glossary': glossary.md
+    - 'Jetstream-2': cloud/js2.md
+    - 'GitHub CodeSpaces': cloud/codespaces.md
 
 # JavaScript for Intercom Widget
 extra_javascript:
@@ -79,14 +33,16 @@ extra_javascript:
 # Set theme to `readthedocs`
 # must also set Action to use `@nomaterial` branch instead of `@master` for material
 theme:
-  name: readthedocs
+  name: material
 # setting features for the navigation tab
   features:
     - navigation.instant
-    - navigation.expand
+      #- navigation.expand
     - navigation.tracking
-    - navigation.sections
-    - navigation.expand
+      #- navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - toc.follow
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
@@ -120,9 +76,9 @@ extra:
       link: https://harbor.cyverse.org/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/c/CyverseOrgProject
-#  analytics:
-#    provider: google
-#    property: 
+  analytics:
+    provider: google
+    property: UA-72224033-6
 
 # Extensions
 markdown_extensions:
@@ -145,7 +101,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
@@ -154,6 +111,7 @@ markdown_extensions:
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
