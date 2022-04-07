@@ -1,11 +1,7 @@
 
-# CyVerse Container Camp 2022
+# TRAC TRAIN 2022
 
-MKDocs website for Container Camp 2022 - both basic and advanced materials here 
-
-TBD: pretty much everything, set up action, set GH Pages to DNS, build website, add pages, convert all `rst` materials and update
-
-htps://cyverse.org/cc
+MKDocs website for TRAC TRAIN 2022
 
 # Development
 
@@ -14,8 +10,8 @@ htps://cyverse.org/cc
 Follow the [Material for MKDocs instructions](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ```
-$ git clone https://github.com/cyverse-learning-materials/container-camp.git
-$ cd container-camp
+$ git clone TranslationalAICenterISU/learning-materials-home
+$ cd learning-materials-home
 $ pip install mkdocs-material
 $ mkdocs serve
 ```
