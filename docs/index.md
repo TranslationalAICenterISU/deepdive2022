@@ -1,8 +1,12 @@
-![!CyVerse Learning Center](assets/de/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="400" }
 
-# TRAC TRAIN 2022
+# Welcome to TRAC Train 2022
 
-Welcome to TRACTRAIN2022!
+![AIIRA](assets/aiira.png){width="500"} 
+
+![!CyVerse Learning Center](assets/de/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="450" } 
+![JS2](assets/jetstream2.png){ width="300"}
+
+### Before you get started, please read our:
 
 [:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
 
@@ -10,7 +14,9 @@ Welcome to TRACTRAIN2022!
 
 [:material-timetable: Schedule](./getting_started/schedule.md)
 
-## :material-cloud-tags: Part 1 - Work Cloud Natively with CyVerse & Jetstream-2
+## :material-cloud-tags: Part 1 
+
+Work Cloud Natively with CyVerse & Jetstream-2
 
 [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} (1.5hrs)
 
@@ -22,24 +28,23 @@ Welcome to TRACTRAIN2022!
 
 Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
 
-- Introduction to Deep Learning with Project Jupyter (1.5hrs)
+- Introduction to Deep Learning with Project Jupyter 
 
-- Data Management (15 mins)
+- Data Management 
 
-- Data Analysis (15 mins)
+- Data Analysis 
 
-- Concepts in training with a predefined standard network architecture (30 mins)
+- Concepts in training with a predefined standard network architecture 
 
-- Performing model inference (15 mins)
+- Performing model inference
 
-- Version control and Reproducibility (15 mins)
+- Version control and Reproducibility 
 
 ## :material-language-python: Part II
 
-Introduction to GPU computing (20mins)
+Introduction to GPU computing 
 
-Setting up your analysis environment for programming in Python (75 minutes)
-
+- Setting up your analysis environment for programming in Python 
 
 -----------------------------------------------------------------------
 

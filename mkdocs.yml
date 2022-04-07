@@ -21,7 +21,6 @@ nav:
     - 'Code of Conduct': getting_started/code_conduct.md
     - 'Logistics': getting_started/logistics.md
     - 'Schedule': getting_started/schedule.md
-    - 'Setup': getting_started/setup.md
   - 'Cloud Services':
     - 'Jetstream-2': cloud/js2.md
     - 'GitHub CodeSpaces': cloud/codespaces.md
@@ -59,7 +58,7 @@ theme:
     code: Regular
   favicon: assets/favicon.png
   icon:
-    logo: material/rocket
+    logo: material/corn
 
 # Options
 extra:
