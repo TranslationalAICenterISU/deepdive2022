@@ -1,7 +1,7 @@
 
 # Welcome to TrAC Training on Intro to Cloud-based Deep Learning
 
-Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
+Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [coalesce](https://coalesce.me.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
 
 <p align="center">
   <img width="500" src="assets/logo.png">
