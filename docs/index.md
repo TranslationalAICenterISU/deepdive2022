@@ -1,11 +1,15 @@
 
 # Welcome to TrAC Training on Intro to Cloud-based Deep Learning
 
-Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [COALESCE](https://coalesce.me.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
-
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
+
+Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. 
+
+This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Cyverse](https://cyverse.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
+
+<br></br>
 
 <p align="center">
   <img width="300" src="assets/aiira.png">
@@ -33,38 +37,19 @@ Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This
 
 3. [:material-timetable: Schedule](./getting_started/schedule.md)
 
-## :material-cloud-tags: Part 1 
-
-Work Cloud Natively with CyVerse & Jetstream-2
-
-1. [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} 
-
-      * [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
-      * :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
-      * [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
-
-2. Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
-      * Introduction to Deep Learning with Project Jupyter 
-      * Data Management 
-      * Data Analysis 
-      * Concepts in training with a predefined standard network architecture 
-      * Performing model inference
-      * Version control and Reproducibility
-
-## :material-language-python: Part II
-
-1. Introduction to GPU computing 
-      * Setting up your analysis environment for programming in Python 
-
 -----------------------------------------------------------------------
 
 **Funding and Citations:**
 
-AI Institute for Resilient Agriculture (AIIRA) is supported by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov) and United States Department of Agriculture - National Institute of Food and Agriculture award \#2021-67021-35329
+AI Institute for Resilient Agriculture (AIIRA) is supported by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} and United States Department of Agriculture - National Institute of Food and Agriculture award \#2021-67021-35329
 
-CyVerse is funded entirely by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov) under Award Numbers:
+Jetstream-2 is funded entirely by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} under Award Numbers:
 
-[![NSF-0735191](https://img.shields.io/badge/NSF-0735191-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191)  [![NSF-1265383](https://img.shields.io/badge/NSF-1265383-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383)  [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442)
+[![NSF-2005506](https://img.shields.io/badge/NSF-2005506-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506){target=_blank} 
 
-Please cite CyVerse appropriately when you make use of our resources; see [CyVerse citation policy](https://cyverse.org/policies/cite-cyverse).
+CyVerse is funded entirely by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} under Award Numbers:
+
+[![NSF-0735191](https://img.shields.io/badge/NSF-0735191-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191){target=_blank}  [![NSF-1265383](https://img.shields.io/badge/NSF-1265383-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383){target=_blank}  [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442){target=_blank}
+
+Please cite CyVerse appropriately when you make use of our resources; see [CyVerse citation policy](https://cyverse.org/policies/cite-cyverse){target=_blank}.
 
