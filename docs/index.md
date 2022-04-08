@@ -1,7 +1,11 @@
 
 # Welcome to TRAC Train 2022
 
-![AIIRA](assets/aiira.png){width="500"} 
+![TrAC](assets/logo.png){width="500"} 
+
+<p align="center">
+  <img width="300" src="assets/aiira.png">
+</p>
 
 ![!CyVerse Learning Center](assets/de/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="450" } 
 ![JS2](assets/jetstream2.png){ width="300"}
