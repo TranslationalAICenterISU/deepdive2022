@@ -38,31 +38,22 @@ Work Cloud Natively with CyVerse & Jetstream-2
 
 1. [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} 
 
-  * [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
-
-  * :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
-
-  * [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
+      * [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
+      * :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
+      * [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
 
 2. Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
-
-  * Introduction to Deep Learning with Project Jupyter 
-
-  * Data Management 
-
-  * Data Analysis 
-  
-  * Concepts in training with a predefined standard network architecture 
-
-  * Performing model inference
-
-  * Version control and Reproducibility 
+      * Introduction to Deep Learning with Project Jupyter 
+      * Data Management 
+      * Data Analysis 
+      * Concepts in training with a predefined standard network architecture 
+      * Performing model inference
+      * Version control and Reproducibility
 
 ## :material-language-python: Part II
 
 1. Introduction to GPU computing 
-
-  * Setting up your analysis environment for programming in Python 
+      * Setting up your analysis environment for programming in Python 
 
 -----------------------------------------------------------------------
 
