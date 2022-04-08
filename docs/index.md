@@ -1,11 +1,11 @@
 
 # Welcome to TrAC Training on Intro to Cloud-based Deep Learning
 
+Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
+
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
-
-Hi all! welcome to the training. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
 
 <p align="center">
   <img width="300" src="assets/aiira.png">
@@ -38,31 +38,31 @@ Work Cloud Natively with CyVerse & Jetstream-2
 
 1. [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} 
 
-  - [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
+  * [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
 
-  - :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
+  * :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
 
-  - [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
+  * [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
 
 2. Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
 
-  - Introduction to Deep Learning with Project Jupyter 
+  * Introduction to Deep Learning with Project Jupyter 
 
-  - Data Management 
+  * Data Management 
 
-  - Data Analysis 
+  * Data Analysis 
   
-  - Concepts in training with a predefined standard network architecture 
+  * Concepts in training with a predefined standard network architecture 
 
-  - Performing model inference
+  * Performing model inference
 
-  - Version control and Reproducibility 
+  * Version control and Reproducibility 
 
 ## :material-language-python: Part II
 
 1. Introduction to GPU computing 
 
-  - Setting up your analysis environment for programming in Python 
+  * Setting up your analysis environment for programming in Python 
 
 -----------------------------------------------------------------------
 
