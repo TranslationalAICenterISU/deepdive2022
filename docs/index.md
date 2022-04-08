@@ -9,6 +9,7 @@ Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. This
 
 <p align="center">
   <img width="300" src="assets/aiira.png">
+  <img width="300" src="assets/coalesce.png">
 </p>
 
 
