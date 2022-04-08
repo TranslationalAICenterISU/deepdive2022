@@ -4,42 +4,28 @@ Intro Workshop Days are at the following times:
 
 09:00AM–13:00PM  US Pacific Daylight Time (12:00PM–16:00PM US Eastern Daylight Time)
 
-## :material-cloud-tags: Part I 
+## :material-cloud-tags: Part 1 
 
 Work Cloud Natively with CyVerse & Jetstream-2
 
-• [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} (1.5hrs)
+1. [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} 
+      * [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
+      * :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
+      * [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
 
-• Navigating the [iRODS](https://irods.org) CyVerse Data Store
+2. Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
+      * Introduction to Deep Learning with Project Jupyter 
+      * Data Management 
+      * Data Analysis 
+      * Concepts in training with a predefined standard network architecture 
+      * Performing model inference
+      * Version control and Reproducibility
 
-• Discovery Environment data science workbench
+## :material-language-python: Part II
 
-• [JetStream-2 OpenStack Cloud](https://jetstream-cloud.org/){target=_blank}
-
-• Containers with Docker and Kubernetes
-
-• Introduction to Deep Learning with Project Jupyter (1.5hrs)
-
-• Data Management (15 mins)
-
-• Data Analysis (15 mins)
-
-• Concepts in training with a predefined standard network architecture (30 mins)
-
-• Performing model inference (15 mins)
-
-• Version control and Reproducibility (15 mins)
-
-## :material-language-python: PartII
-
-• Introduction to GPU computing (20mins)
-
-• Setting up your analysis environment for programming in Python
-
-• on Google Colab (15mins)
-
-• on Windows (20mins)
-
-• on Linux (20mins)
-
-• on HPC (30mins)
+1. Introduction to GPU computing
+2. Setting up your analysis environment for programming in Python 
+      * on Google Colab (15mins)
+      * on Windows (20mins)
+      * on Linux (20mins)
+      * on HPC (30mins)
