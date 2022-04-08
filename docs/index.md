@@ -1,54 +1,68 @@
 
-# Welcome to TRAC Train 2022
+# Welcome to TrAC Training on Intro to Cloud-based Deep Learning
 
-![TrAC](assets/logo.png){width="500"} 
+<p align="center">
+  <img width="500" src="assets/logo.png">
+</p>
+
+Hi all! welcome to the training. This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/), [Cyverse](https://cyverse.org/), [JetStream2](https://jetstream-cloud.org/). 
 
 <p align="center">
   <img width="300" src="assets/aiira.png">
 </p>
 
+
+<p align="center">
+  <img width="450" src="assets/de/logos/cyverse_logo_2022.png">
+  <span> </span>
+  <img width="300" src="assets/jetstream2.png">
+</p>
+
+
+<!-- 
 ![!CyVerse Learning Center](assets/de/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="450" } 
 ![JS2](assets/jetstream2.png){ width="300"}
+ -->
 
-### Before you get started, please read our:
+## Before you get started, please read our:
 
-[:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
+1. [:material-scale-balance: Code of Conduct](./getting_started/code_conduct.md)
 
-[:fontawesome-solid-gears: Logistics](./getting_started/logistics.md)
+2. [:fontawesome-solid-gears: Logistics](./getting_started/logistics.md)
 
-[:material-timetable: Schedule](./getting_started/schedule.md)
+3. [:material-timetable: Schedule](./getting_started/schedule.md)
 
 ## :material-cloud-tags: Part 1 
 
 Work Cloud Natively with CyVerse & Jetstream-2
 
-[Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} (1.5hrs)
+1. [Introduction to CyVerse cyberinfrastructure](https://learning.cyverse.org){target=_blank} 
 
-- [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
+  - [Discovery Environment Data Science Workbench](https://de.cyverse.org){target=_blank}
 
-- :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
+  - :material-database-cog: Navigating the [iRODS](https://irods.org) CyVerse Data Store
 
-- [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
+  - [JupyterHub on JetStream-2 OpenStack Cloud](http://tractrain2022.cyverse.org/){target=_blank}
 
-Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
+2. Containers with :material-docker: Docker and :material-kubernetes: Kubernetes
 
-- Introduction to Deep Learning with Project Jupyter 
+  - Introduction to Deep Learning with Project Jupyter 
 
-- Data Management 
+  - Data Management 
 
-- Data Analysis 
+  - Data Analysis 
+  
+  - Concepts in training with a predefined standard network architecture 
 
-- Concepts in training with a predefined standard network architecture 
+  - Performing model inference
 
-- Performing model inference
-
-- Version control and Reproducibility 
+  - Version control and Reproducibility 
 
 ## :material-language-python: Part II
 
-Introduction to GPU computing 
+1. Introduction to GPU computing 
 
-- Setting up your analysis environment for programming in Python 
+  - Setting up your analysis environment for programming in Python 
 
 -----------------------------------------------------------------------
 
