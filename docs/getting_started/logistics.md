@@ -12,6 +12,10 @@ You need to provide the instructors with the following informaion prior to the s
 
     - Please register for the workshop here if you do not yet have an account with CyVerse: https://user.cyverse.org/workshops/92 
 
+* *optional* [:material-duck: CyberDuck](https://cyberduck.io){target=_blank} CyberDuck file transfer program
+
+    - [Install CyVerse User Profile](https://learning.cyverse.org/ds/cyberduck/){target=_blank}
+
 [ball]: ../assets/de/logos/cyverse_ball_2022.png
 
 ## Virtual Attendance
