@@ -19,9 +19,9 @@ Work Cloud Natively with CyVerse & Jetstream-2
 | 11:55 | Short :material-coffee-outline: Break | | I |
 | 12:00 | Deep Learning with Project Jupyter | [Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-1){target=_blank} | I |
 | 13:00 | Lunch Break (eat :material-food:) | | |
-| 14:00 | Introduction to GPU-based computing |[Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-2) | II |
+| 14:00 | Deep Learning with Project Jupyter Exercise |[Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-1){target=_blank} | I |
 | 14:55 | Short :material-coffee-outline: Break | | II |
-| 15:00 | Introduction to GPU-based computing cont. | [Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-2) | II |
+| 15:00 | Introduction to GPU-based computing | [Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-2){target=_blank} | II |
 | 15:55 | Short :material-coffee-outline: Break | | II |
 | 16:00 | Setup an analyses for programming in Python | | II |
 | 16:55 | Conclude | | II |
