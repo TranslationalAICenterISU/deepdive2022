@@ -10,8 +10,8 @@ MKDocs website for TRAC TRAIN 2022
 Follow the [Material for MKDocs instructions](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ```
-$ git clone TranslationalAICenterISU/learning-materials-home
-$ cd learning-materials-home
+$ git clone TranslationalAICenterISU/tractrain2022
+$ cd tractrain2022
 $ pip install mkdocs-material
 $ mkdocs serve
 ```
