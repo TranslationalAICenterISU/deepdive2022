@@ -3,7 +3,7 @@ repo_name: 'TranslationalAICenterISU/deepdive2022'
 repo_url: 'https://github.com/TranslationalAICenterISU/deepdive2022'
 
 site_name: 'A Deep Dive into Deep Learning Algorithms and Architectures'
-site_description: 'Documentation for tutorial on "A Deep Dive into Deep Learning Algorithms and Architectures"'
+site_description: 'Documentation for tutorial on - A Deep Dive into Deep Learning Algorithms and Architectures'
 site_author: 'TrAC Team, CyVerse, & Midwest Big Data Summer School'
 site_url: 'https://translationalaicenterisu.github.io/deepdive2022'
 
