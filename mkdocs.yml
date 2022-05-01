@@ -1,11 +1,11 @@
 docs_dir: docs/
-repo_name: 'TranslationalAICenterISU/learning-materials-home'
-repo_url: 'https://github.com/TranslationalAICenterISU/tractrain2022'
+repo_name: 'TranslationalAICenterISU/deepdive2022'
+repo_url: 'https://github.com/TranslationalAICenterISU/deepdive2022'
 
-site_name: 'TrAC Training 2022'
-site_description: 'Documentation for CyVerse Platforms and Education'
-site_author: 'AIIRA Team'
-site_url: 'https://translationalaicenterisu.github.io/tractrain2022'
+site_name: 'A Deep Dive into Deep Learning Algorithms and Architectures'
+site_description: 'Documentation for tutorial on "A Deep Dive into Deep Learning Algorithms and Architectures"'
+site_author: 'TrAC Team, CyVerse, & Midwest Big Data Summer School'
+site_url: 'https://translationalaicenterisu.github.io/deepdive2022'
 
 edit_uri: edit/mkdocs/docs
 
