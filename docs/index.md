@@ -1,21 +1,22 @@
 
-# Welcome to TrAC Training on Intro to Cloud-based Deep Learning
+# Welcome to TrAC Training on "A Deep Dive into Deep Learning Architectures and Algorithms"
 
 <p align="center">
   <img width="500" src="assets/logo.png">
 </p>
 
-Hi all! welcome to TrAC training on **Intro to Cloud-based Deep Learning**. 
+Hi all! welcome to TrAC training on **A Deep Dive into Deep Learning Architectures and Algorithms**. 
 
 This tutorial is possible because of the resources coming from [AIIRA](https://aiira.iastate.edu/){target=_blank}, [COALESCE](https://coalesce.me.iastate.edu/){target=_blank}, [Cyverse](https://cyverse.org/){target=_blank}, [JetStream2](https://jetstream-cloud.org/){target=_blank}. 
 
 <br></br>
 
+<!-- 
 <p align="center">
   <img width="300" src="assets/aiira.png">
   <img width="300" src="assets/coalesce.png">
 </p>
-
+ -->
 
 <p align="center">
   <img width="450" src="assets/de/logos/cyverse_logo_2022.png">
