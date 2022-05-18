@@ -18,10 +18,8 @@ You need to provide the instructors with the following informaion prior to the s
 
 [ball]: ../assets/de/logos/cyverse_ball_2022.png
 
-## Virtual Attendance
+## Attendance
 
-The workshop will be conducted over Zoom ([Link](https://iastate.zoom.us/j/96516466072?pwd=dENpQThMM0E4QlhhUnJVQzFGUTY5dz09))
+**Venue:**  The tutorial is held at Great Hall, Memorial Union, Iowa State University.
 
-Zoom Meeting ID: 965 1646 6072 
-
-Zoom Password: 386676 
+**Parking:** (Paid) Parking is available in the parking ramp at the Memorial Union.
