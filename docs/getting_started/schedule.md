@@ -9,19 +9,17 @@ Work Cloud Natively with CyVerse & Jetstream-2
 
 **All times shown in Central Daylight Time**
 
-| Time | Concept | Notes | Part |
-|------|---------|-------|------|
-| 10:00 | CyVerse Background | [CyVerse Documentation](https://learning.cyverse.org){target=_blank} | I |
-| 10:30 | Navigating the CyVerse Discovery Environment (DE) Data Science Workbench | [Go to DE](https://de.cyverse.org){target=_blank} | I |
-| 10:55 | Short :material-coffee-outline: Break | | I |
-| 11:00 | Navigating the CyVerse Data Store | [Browse DE Data Store](https://de.cyverse.org/data){target=_blank} [ Browse WebDav](https://data.cyverse.org){target=_blank} | I |
-| 11:30 | Jetstream-2 Background | [JupyterHub on JetStream-2 OpenStack Cloud](../cloud/js2.md){target=_blank} | I |
-| 11:55 | Short :material-coffee-outline: Break | | I |
-| 12:00 | Deep Learning with Project Jupyter | [Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-1){target=_blank} | I |
-| 13:00 | Lunch Break (eat :material-food:) | | |
-| 14:00 | Deep Learning with Project Jupyter Exercise |[Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-1){target=_blank} | I |
-| 14:55 | Short :material-coffee-outline: Break | | II |
-| 15:00 | Introduction to GPU-based computing | [Jupyter notebooks](https://github.com/TranslationalAICenterISU/tractrain2022/tree/mkdocs/notebooks/part-2){target=_blank} | II |
-| 15:55 | Short :material-coffee-outline: Break | | II |
-| 16:00 | Setup an analyses for programming in Python | | II |
-| 16:55 | Conclude | | II |
+| Time | Concept | Notes |
+|------|---------|-------|
+| 09:00 | Intro to Deep Learning (backpropagation, SGD and other concepts) | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks)  1, 2, 3|
+| 10:00 | Convolutional Neural Networks – Architectures for Object Recognition | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 4, 5, 6 |
+| 10:55 | Short  Break | |
+| 11:00 | Convolutional Neural Networks – Architectures of Object Detection, Semantic Segmentation, Autoencoders, etc. | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 7 |
+| 12:00 | Lunch Break | |
+| 13:30 | More architectures – LSTMs, Transformers, etc. | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 8, 9 |
+| 14:30 | Algorithms – Generative Adversarial Networks | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 10 | 
+| 14:55 | Short Break | | 
+| 15:00 | Algorithms – Reinforcement Learning | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 11 | 
+| 15:30 | Algorithms – Scientific Machine Learning | [notebooks](https://github.com/TranslationalAICenterISU/deepdive2022/tree/mkdocs/notebooks) 12 | 
+| 16:00 | Emerging topics in deep learning: Interpretability, adversarial learning, distributed deep learning etc. | | 
+
