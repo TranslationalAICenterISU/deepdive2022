@@ -1,12 +1,5 @@
 # Schedule
 
-Intro Workshop Days are at the following times:
-
- 1. **Part 1** 10:00–13:00  US Central Daylight Time (11:00–14:00 US Eastern Daylight Time)
- 2. **Part 2** 14:00–17:00  US Central Daylight Time (15:00–18:00 US Eastern Daylight Time)
-
-Work Cloud Natively with CyVerse & Jetstream-2
-
 **All times shown in Central Daylight Time**
 
 | Time | Concept | Notes |
