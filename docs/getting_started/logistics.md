@@ -4,7 +4,7 @@ We are going to be using a combination of CyVerse training materials, GitHub, an
 
 ## Create accounts
 
-You need to provide the instructors with the following informaion prior to the start of the workshop:
+You need to provide the instructors with the following information prior to the start of the workshop:
 
 * [:material-github: GitHub](https://github.com){target=_blank} - Provide the instructors with your GitHub `username`, you will use this to authenticate to the GPU cloud instances where we will be running the exercises.
 
